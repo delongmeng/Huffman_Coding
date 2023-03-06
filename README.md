@@ -1,4 +1,4 @@
-# Udacity_Huffman_Coding
+# Huffman Coding
 
 
 Problem:
